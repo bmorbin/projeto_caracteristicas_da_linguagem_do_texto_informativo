@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 2348 419.82">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+        stroke-width: 0px;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="-127.23" y1="209.91" x2="2880.95" y2="209.91" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset=".1" stop-color="#d1dcff" stop-opacity=".34"/>
+      <stop offset=".2" stop-color="#aabfff" stop-opacity=".62"/>
+      <stop offset=".27" stop-color="#8daaff" stop-opacity=".83"/>
+      <stop offset=".33" stop-color="#7c9dff" stop-opacity=".95"/>
+      <stop offset=".36" stop-color="#7699ff"/>
+      <stop offset=".4" stop-color="#7284ff"/>
+      <stop offset=".48" stop-color="#6c5eff"/>
+      <stop offset=".55" stop-color="#6740ff"/>
+      <stop offset=".63" stop-color="#632bff"/>
+      <stop offset=".7" stop-color="#611eff"/>
+      <stop offset=".77" stop-color="#611aff"/>
+    </linearGradient>
+  </defs>
+  <g id="Vocabulário_Técnico" data-name="Vocabulário Técnico">
+    <path class="cls-1" d="M2348,29.13v381.65c-213.34,29.72-225.42-23.37-456.4-23.37s-239.2,20-478.4,20-239.2-20-478.4-20-239.2,20-478.4,20S216.15,423.57,0,390.69V9.04c213.34-29.72,225.42,23.37,456.4,23.37s239.2-20,478.4-20,239.2,20,478.4,20,239.2-20,478.4-20,240.25-16.16,456.4,16.72Z"/>
+  </g>
+</svg>

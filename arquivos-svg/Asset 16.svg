@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 2348 443.57">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+        stroke-width: 0px;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="-127.23" y1="221.78" x2="2880.95" y2="221.78" gradientUnits="userSpaceOnUse">
+      <stop offset=".23" stop-color="#611aff"/>
+      <stop offset=".3" stop-color="#611eff"/>
+      <stop offset=".37" stop-color="#632bff"/>
+      <stop offset=".45" stop-color="#6740ff"/>
+      <stop offset=".52" stop-color="#6c5eff"/>
+      <stop offset=".6" stop-color="#7284ff"/>
+      <stop offset=".64" stop-color="#7699ff"/>
+      <stop offset=".67" stop-color="#7c9dff" stop-opacity=".95"/>
+      <stop offset=".73" stop-color="#8daaff" stop-opacity=".83"/>
+      <stop offset=".8" stop-color="#aabfff" stop-opacity=".62"/>
+      <stop offset=".9" stop-color="#d1dcff" stop-opacity=".34"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="Impessoalidade">
+    <path class="cls-1" d="M2348,29.82v404.04c-212.95,31.44-225.46-23.58-456.4-23.58s-239.2,20-478.4,20-239.2-20-478.4-20-239.2,20-478.4,20S215.91,448.45,0,413.74V9.7c212.95-31.44,225.46,23.58,456.4,23.58s239.2-20,478.4-20,239.2,20,478.4,20,239.2-20,478.4-20,240.49-18.17,456.4,16.54Z"/>
+  </g>
+</svg>

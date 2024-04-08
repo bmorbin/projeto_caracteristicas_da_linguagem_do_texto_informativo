@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 2348 454.37">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+        stroke-width: 0px;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="-127.23" y1="227.19" x2="2880.95" y2="227.19" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset=".1" stop-color="#d1dcff" stop-opacity=".34"/>
+      <stop offset=".2" stop-color="#aabfff" stop-opacity=".62"/>
+      <stop offset=".27" stop-color="#8daaff" stop-opacity=".83"/>
+      <stop offset=".33" stop-color="#7c9dff" stop-opacity=".95"/>
+      <stop offset=".36" stop-color="#7699ff"/>
+      <stop offset=".4" stop-color="#7284ff"/>
+      <stop offset=".48" stop-color="#6c5eff"/>
+      <stop offset=".55" stop-color="#6740ff"/>
+      <stop offset=".63" stop-color="#632bff"/>
+      <stop offset=".7" stop-color="#611eff"/>
+      <stop offset=".77" stop-color="#611aff"/>
+    </linearGradient>
+  </defs>
+  <g id="Concisão">
+    <path class="cls-1" d="M2348,30.15v414.22c-212.76,32.22-225.48-23.68-456.4-23.68s-239.2,20-478.4,20-239.2-20-478.4-20-239.2,20-478.4,20S215.8,459.77,0,424.23V10.01c212.76-32.22,225.48,23.68,456.4,23.68s239.2-20,478.4-20,239.2,20,478.4,20,239.2-20,478.4-20,240.6-19.08,456.4,16.46Z"/>
+  </g>
+</svg>
